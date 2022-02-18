@@ -1,0 +1,13 @@
+package com.springbootmicroserviceconfigserver;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringbootmicroserviceConfigserverApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringbootmicroserviceConfigserverApplication.class, args);
+	}
+
+}
